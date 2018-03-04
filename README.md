@@ -8,7 +8,7 @@ PDSB class.
 #### Installation
 
 ```bash
-git clone https://github.com/eaton-lab/seqlib.git
+git clone https://github.com/programming-for-bio/seqlib.git
 cd seqlib
 pip install .
 ```
